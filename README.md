@@ -1,4 +1,4 @@
-# Introduction-of-DeepLearning
+# Introduction-to-DeepLearning
 (2022~) `pytorch`로 시작하는 딥러닝 입문       
 _Update: 2022-06-27_   
 
